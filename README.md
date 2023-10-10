@@ -25,6 +25,13 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
+## Generated LOGO
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><circle cx="50%" cy="50%" r="100" height="100%" width="100%" fill="WHITE"><text x="150" y="125" font-size="60" text-anchor="middle" fill="GREEN">RED</text></svg>
+
+
+## Video DEMO
+https://drive.google.com/file/d/1EuyJQM6dCWVIulW83PlTfGTy014b3rpp/view
+
 #Usage Instructions
 Open the cloned repository in any source code editor e.g. Visual Studio Code.
 Open integrated terminal on index.js
